@@ -1,6 +1,6 @@
 # lab-report-2
 
-# Sorting Algorithm Comparison
+# Sorting 
 
 ## Project Description
 This is a C programming project where I used Merge Sort and Quick Sort to sort an array. It also compares the number of comparisons made by both sorting algorithms.
